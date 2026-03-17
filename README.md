@@ -35,3 +35,17 @@ O sistema simula o funcionamento básico de uma loja, permitindo gerenciar infor
 ✅ Organização de dados em classes e objetos
 
 ✅ Simulação de operações de uma loja
+
+💡 Conceitos Aplicados
+
+* Criação de classes e objetos
+
+* Uso de construtores
+
+* Métodos getters e setters
+
+* Relacionamento entre classes
+
+* Reutilização de código com herança
+
+* Sobrescrita de métodos (polimorfismo)
