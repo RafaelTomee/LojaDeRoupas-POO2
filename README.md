@@ -1,4 +1,4 @@
-**🛍️ Sistema de Loja de Roupas
+**🛍️ Sistema de Loja de Roupas**
 
 Sistema desenvolvido em Java com foco em Programação Orientada a Objetos (POO) para gerenciamento de uma loja de roupas, permitindo o controle de produtos, clientes e operações básicas do sistema.
 
